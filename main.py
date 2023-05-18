@@ -9,4 +9,5 @@ if __name__ == '__main__':
     # Dodavanje osnovnih vrijednosti u bazu -> DbSeed()
     # Eventualna provjera jesu li senzori aktivni
 
-    m    my_main_window = MainWindow()
+    my_main_window = MainWindow()
+    my_main_window.mainloop()
